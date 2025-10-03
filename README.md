@@ -32,7 +32,7 @@ flowchart LR
 ## 💻 Esempi pratici per linguaggio
 
 ### Java
-- [NoteBotMin.java (Java 8, con HttpURLConnection)](NoteBotMin.md)
+- [NoteBotJava.java (Java 8, con HttpURLConnection)](NoteBotMin.md)
 
 ### PHP
 - [noteBot.php (PHP, senza cURL)](NoteBotPHP.md)
