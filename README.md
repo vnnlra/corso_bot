@@ -1,4 +1,4 @@
-![Flusso Bot Telegram](bot_telegram_flow.png)
+tra![Flusso Bot Telegram](bot_telegram_flow.png)
 
 # Mini corso: Bot Telegram minimali
 
@@ -38,8 +38,8 @@ flowchart LR
 - [noteBot.php (PHP, senza cURL)](NoteBotPHP.md)
 
 ### JavaScript / Node.js
-- [noteBot.js (con async/await, Node 18+)](NoteBotJS.md)
-- [noteBot.js (semplificato con .then(), Node 18+)](NoteBotJS_then.md)
+- [noteBot.js (con async/await, Node 18+)](NoteBotJS_extra.md)
+- [noteBot.js (semplificato con .then(), Node 18+)](NoteBotJS_lite.md)
 
 
 ---
