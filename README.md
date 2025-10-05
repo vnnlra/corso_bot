@@ -17,7 +17,9 @@ Qui ci concentriamo su esempi **essenziali e pratici**.
 
 ## Sicurezza
 
-[Note sulla sicurezza e privacy](bot_security.md)
+- [Note sulla sicurezza e privacy](bot_security.md)
+
+---
 
 ## 🔄 Diagramma del flusso
 
