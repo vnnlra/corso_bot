@@ -15,7 +15,7 @@ Qui ci concentriamo su esempi **essenziali e pratici**.
 
 ---
 
-## Sicurezza
+## 🔐 Sicurezza
 
 - [Note sulla sicurezza e privacy](bot_security.md)
 
