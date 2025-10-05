@@ -8,7 +8,8 @@ Questo esempio mostra i passi principali per creare un **bot Telegram** che funz
 - Apri Telegram e cerca l’utente **@BotFather**.  
 - Scrivi il comando `/start`.  
 - Scrivi `/newbot` e segui le istruzioni: ti chiederà un nome e un “username” (che deve finire con *bot*, tipo `MioBloccoNoteBot`).  
-- Alla fine ti darà un **token** (una lunga stringa di lettere e numeri). Questo serve per parlare con il bot tramite codice.
+- Alla fine ti darà un **token** (una lunga stringa di lettere e numeri). Questo serve per parlare con il bot tramite codice.Ti darà anche la URL del bot https://t.me/tuo_username
+
 
 ---
 
@@ -31,7 +32,7 @@ Questo script prende il testo che scrivi e lo manda al tuo bot, che lo recapita 
 
 ## 3. Scoprire il tuo Chat ID
 
-- Scrivi un messaggio qualsiasi al bot appena creato. Cercalo per nome tra le chat
+- Scrivi un messaggio qualsiasi al bot appena creato. Cercalo per nome tra le chat oppure alla URL che ti ha dato BotFather
 - Poi vai su:  
 
 ```
