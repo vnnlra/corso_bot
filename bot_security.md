@@ -18,4 +18,4 @@ Long id = update.getMessage().getFrom().getId();
 
 Confrontando questo valore con quello dell’utente autorizzato si può filtrare chi può interagire con il bot.
 
-Per quanto riguarda il **nome**, scegli un nome riconoscibile ma rispettoso: evita riferimenti offensivi, politici o ambigui, e preferisci nomi chiari che descrivano lo scopo del bot (ad esempio *WeatherHelperBot* o *QuizScuolaBot*). Il nome utente del bot deve terminare obbligatoriamente con **“Bot”**.
+Per quanto riguarda il **nome**, scegli un nome riconoscibile ma rispettoso: evita riferimenti offensivi o ambigui, e preferisci nomi chiari che descrivano lo scopo del bot (ad esempio *WeatherHelperBot* o *QuizScuolaBot*). Il nome utente del bot deve terminare obbligatoriamente con **“Bot”**.
