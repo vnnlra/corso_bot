@@ -15,6 +15,10 @@ Qui ci concentriamo su esempi **essenziali e pratici**.
 
 ---
 
+## Sicurezza
+
+[Note sulla sicurezza e privacy]()
+
 ## 🔄 Diagramma del flusso
 
 Ecco come funziona il nostro bot a livello logico:
