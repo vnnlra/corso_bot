@@ -22,7 +22,7 @@ TOKEN="IL_TUO_TOKEN"
 CHAT_ID="IL_TUO_CHAT_ID"
 MESSAGGIO="$*"
 
-curl -s -X POST "https://api.telegram.org/bot$TOKEN/sendMessage"      -d chat_id="$CHAT_ID"      -d text="$MESSAGGIO"
+curl -s -X POST "https://api.telegram.org/bot$TOKEN/sendMessage" -d chat_id="$CHAT_ID" -d text="$MESSAGGIO"
 ```
 
 Questo script prende il testo che scrivi e lo manda al tuo bot, che lo recapita a te stesso su Telegram.
@@ -31,7 +31,7 @@ Questo script prende il testo che scrivi e lo manda al tuo bot, che lo recapita 
 
 ## 3. Scoprire il tuo Chat ID
 
-- Scrivi un messaggio qualsiasi al bot appena creato.  
+- Scrivi un messaggio qualsiasi al bot appena creato. Cercalo per nome tra le chat
 - Poi vai su:  
 
 ```
