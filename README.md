@@ -41,19 +41,6 @@ flowchart LR
 - [noteBot.js (con async/await, Node 18+)](NoteBotJS.md)
 - [noteBot.js (semplificato con .then(), Node 18+)](NoteBotJS_then.md)
 
----
-
-## 📌 Come ottenere il `chat_id`
-In tutti gli esempi, per inviare messaggi serve il **chat_id** della conversazione.  
-Per ottenerlo:
-1. Scrivi un messaggio qualsiasi al tuo bot su Telegram.
-2. Apri nel browser:  
-   ```
-   https://api.telegram.org/botIL_TUO_TOKEN/getUpdates
-   ```
-3. Cerca nella risposta JSON il campo `message.chat.id` → quello è il tuo `chat_id`.
-
-> 🔑 Perché serve questo passaggio? Telegram registra ogni messaggio come un *update*. `getUpdates` ti permette di leggere questa coda e scoprire in quale chat è avvenuto l'evento, fornendo così l'ID corretto.
 
 ---
 
