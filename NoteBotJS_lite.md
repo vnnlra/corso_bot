@@ -54,8 +54,3 @@ fetch(url)
 
 ---
 
-## Perché usare `getUpdates` per il `chat_id`
-
-Quando l’utente scrive al bot, Telegram registra un *update* (evento) in una coda.  
-Il metodo **`getUpdates`** serve a leggere quella coda: dentro ogni evento di messaggio c’è l’oggetto `chat` con l’`id` della conversazione.  
-È questo numero che il bot deve usare come `chat_id` per inviarti i messaggi.
