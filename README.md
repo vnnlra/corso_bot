@@ -51,7 +51,5 @@ flowchart LR
 ---
 
 👉 Questi esempi sono pensati per essere una **base semplice**: servono a prendere confidenza con i bot e a capire come inviare messaggi automatici.  
-Nei capitoli successivi vedremo:
-- come funzionano davvero le richieste HTTP (GET, POST, ecc.)
-- l’uso di librerie più potenti (`cURL`, `axios`, ecc.)
-- la gestione di casi più complessi (risposte automatiche, interazione con gli utenti, ecc.)
+Prossimamente vedremo come funzionano davvero le richieste HTTP (GET, POST, ecc.)
+
