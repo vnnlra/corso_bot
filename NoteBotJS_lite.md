@@ -26,18 +26,12 @@ fetch(url)
 
 ## Come funziona
 
-1. Inserisci il tuo **token** (dato da [BotFather](https://core.telegram.org/bots#botfather)) e il tuo **chatId**.  
-2. Ottieni il `chat_id`: scrivi un messaggio al tuo bot e poi apri nel browser:  
-   ```
-   https://api.telegram.org/botIL_TUO_TOKEN/getUpdates
-   ```
-   Nella risposta JSON troverai `message.chat.id`.  
-3. Salva il file come `noteBot.js`.  
-4. Esegui lo script con Node:  
+1. Salva il file come `noteBot.js`.  
+2. Esegui lo script con Node:  
    ```bash
    node noteBot.js
    ```
-5. Se tutto è corretto, riceverai un messaggio su Telegram dal tuo bot.
+3. Se tutto è corretto, riceverai un messaggio su Telegram dal tuo bot.
 
 ---
 
